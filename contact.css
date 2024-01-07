@@ -1,0 +1,27 @@
+.cont-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+  }
+  .boxes-about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    flex: 1;
+    gap: 100px;
+  }
+  .boxx-about {
+    border-radius: 10px;
+    box-shadow: 30px 30px 30px 30px;
+    padding: 50px;
+  }
+  .bilgi {
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  
