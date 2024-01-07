@@ -1,0 +1,67 @@
+
+.logo-2 {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+  }
+  
+  .boxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    background-color: rgb(21, 20, 21);
+  }
+  .profil {
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px;
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+  }
+  .hello {
+    color: white;
+    font-size: 40px;
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: 2px;
+    font-weight: 500;
+  }
+  .name {
+    font-size: 50px;
+    color: brown;
+    letter-spacing: 5px;
+    font-weight: 600;
+    font-family: "Bebas Neue", sans-serif;
+  }
+  p {
+    color: white;
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: "Barlow Condensed", sans-serif;
+  }
+  .box-1 {
+    display: block;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  img {
+    width: 50px;
+    height: 50px;
+  }
+  .btn {
+    background-color: brown;
+    color: white;
+    border-radius: 30px;
+    padding: 10px;
+    border: none;
+  }
+  .boxes-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+  }
+  
+  

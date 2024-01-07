@@ -1,0 +1,52 @@
+
+.first {
+    color: white;
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: "Barlow Condensed", sans-serif;
+  }
+  .h1 {
+    color: brown;
+    font-size: 40px;
+    font-family: "Barlow Condensed", sans-serif;
+    margin-top: 50px;
+  }
+  .boxes-about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    flex: 1;
+    gap: 100px;
+  }
+  .boxess-about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+  }
+  .boxx-about {
+    border-radius: 10px;
+    box-shadow: 30px 30px 30px 30px;
+    padding: 50px;
+  }
+  .box-about,
+  .box-about-2 {
+    border-radius: 10px;
+    flex: 1;
+    box-shadow: 30px 30px 30px 30px;
+    padding: 30px;
+  }
+  
+  .front {
+    color: brown;
+    font-family: "Salsa", sans-serif;
+    font-size: 40px;
+  }
+  p {
+    color: white;
+  
+    font-size: 30px;
+    font-family: "Barlow Condensed", sans-serif;
+  }
+  
